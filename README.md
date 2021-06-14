@@ -1,4 +1,8 @@
-### Hi there 👋
+[Block & Focus Chrome Extension](https://www.blockandfocus.com/)
+[Audio Visualization - Nautilus](https://felipethome.github.io/av-nautilus/)
+[Audio Visualization - Gravity](https://felipethome.github.io/av-gravity/)
+[ReactInlineTransitionGroup Demo](http://felipethome.github.io/react-inline-transition-group/)
+[Interview Solutions (C++)](https://felipethome.github.io/coding-interview-solutions/)
 
 <!--
 **felipethome/felipethome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
